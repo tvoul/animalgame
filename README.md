@@ -1,4 +1,4 @@
-# animalgame, Java CLI game
+# animalgame
 
 A CLI game where you can buy, sell, feed and breed animals - 1 to 4 players and 5 to 30 rounds. Game starts by running "Main".
 Every round health depreciates by a random amount, 10-30%. Health can be gained by feeding an animal.
